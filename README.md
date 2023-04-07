@@ -18,6 +18,9 @@
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+### Discord servers
+[![AlephZe](https://dcbadge.vercel.app/api/server/cZH93kM)](https://discord.gg/cZH93kM)
+[![Psatir](https://dcbadge.vercel.app/api/server/4nv3uEcfsz)](https://discord.gg/4nv3uEcfsz)
 ## Stats
 ![alvalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvalens&show_icons=true&theme=transparent)
 
