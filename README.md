@@ -4,7 +4,21 @@
 - 🔭 I’m currently working on ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+- 
+### 🌐 Social
+<a href="https://www.instagram.com/saffel14/">
+   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;&nbsp;
 
+<a href="https://discordapp.com/users/bloody#6118">
+   <img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/alvalen shafel/">
+   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+# Stats
 ![alvalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvalens&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvalens&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
