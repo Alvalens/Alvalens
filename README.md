@@ -1,11 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 [![visitor](https://visitor-badge.laobi.icu/badge?page_id=alvalens)](https://github.com/alvalens)
 
 - 🔭 I’m currently working on ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-- 
-### 🌐 Social
+
+## 🌐 Social
 <a href="https://www.instagram.com/saffel14/">
    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -18,7 +18,7 @@
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-# Stats
+## Stats
 ![alvalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvalens&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvalens&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
