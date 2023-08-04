@@ -1,9 +1,7 @@
 # Hi there 👋
 [![visitor](https://visitor-badge.laobi.icu/badge?page_id=alvalens)](https://github.com/alvalens)
 
-- 🔭 I’m currently working on ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+![readmebox](https://github.com/Alvalens/Alvalens/assets/109880628/47a90027-6911-40a2-ac4a-501d9cd3eeee)
 
 ## 🌐 Social
 <a href="https://www.instagram.com/saffel14/">
