@@ -12,13 +12,13 @@
 </p>
 
 
-### About Me ✅
+### highlight 🔦
 * 😎 My name is **Alvalen**
 * 🌱 I’m currently learning Next JS and React Native
 * 👨‍💻 My portofolio avalible at: https://alvalens.my.id
 * 📫 How to reach me alvalen.shafel04@gmail.com
 
-### My Bio 📄
+### About Me 📄
 Hello outlander, my name is **Alvalen Shafelbilyunazra**, a passionate and ambitious junior **fullstack developer** with a fervent dedication to the world of **Web Development**. Currently, I am a student at the esteemed **Universitas Negeri Malang**, where I'm in the midst of my exciting journey through the third semester of my **computer science** program. With the fire of ambition burning brightly in my heart, I venture forth into this mystical domain, where code weaves the **fabric of reality**, and websites are the portals to new adventures. The arcane arts of programming are my sword and shield, and I'm always ready to engage in battle with the most intricate challenges that the **digital wilderness** throws my way 🗺️⚔️🔥.
 
 ### Tech Stack 🔥
