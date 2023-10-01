@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there I'm Alvalens👋
 [![visitor](https://visitor-badge.laobi.icu/badge?page_id=alvalens)](https://github.com/alvalens)
 
 ![readmebox](https://github.com/Alvalens/Alvalens/assets/109880628/47a90027-6911-40a2-ac4a-501d9cd3eeee)
@@ -19,6 +19,7 @@
 ### Discord servers
 [![AlephZe](https://dcbadge.vercel.app/api/server/cZH93kM)](https://discord.gg/cZH93kM)
 [![Psatir](https://dcbadge.vercel.app/api/server/4nv3uEcfsz)](https://discord.gg/4nv3uEcfsz)
+
 ## Stats
 ![alvalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvalens&show_icons=true&theme=transparent)
 
