@@ -34,7 +34,7 @@ Hello outlander, my name is **Alvalen Shafelbilyunazra**, a passionate and ambit
 <a href="https://discordapp.com/users/bloody#6118">
    <img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/alvalen shafel/">
+<a href="https://www.linkedin.com/in/alvalens/">
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br>
