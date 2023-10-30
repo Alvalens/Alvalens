@@ -28,7 +28,7 @@ Hello outlander, my name is **Alvalen Shafelbilyunazra**, a passionate and ambit
 ![alvalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvalens&hide=issues&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvalens&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Social 🌐
-<a href="https://www.instagram.com/saffel14/">
+<a href="https://www.instagram.com/alvalens_/">
    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/bloody#6118">
