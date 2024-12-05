@@ -1,7 +1,7 @@
 <h1 align='center' style="color: red;">Welcome to My Profile Outlander!👋</h1>
 <div align="center">
    
-   **Web Developer | UI/UX | AI & ML** <br> <br>
+   **Fullstack Developer | Mobile Dev | AI & ML| Gen AI** <br> <br>
    <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=alvalens)](https://github.com/alvalens) [![committers.top badge](https://user-badge.committers.top/indonesia_private/Alvalens.svg)](https://user-badge.committers.top/indonesia_private/Alvalens)</a> 
     
    
